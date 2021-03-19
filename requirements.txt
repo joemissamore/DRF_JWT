@@ -1,7 +1,7 @@
 autopep8==1.4.4
 Django==2.2.3
 django-rest-auth==0.9.5
-djangorestframework==3.10.1
+djangorestframework==3.11.2
 djangorestframework-simplejwt==4.3.0
 pycodestyle==2.5.0
 PyJWT==1.7.1
